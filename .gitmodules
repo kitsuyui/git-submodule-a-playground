@@ -1,0 +1,3 @@
+[submodule "recursive"]
+	path = recursive
+	url = git@github.com:kitsuyui/git-submodule-a-playground.git
